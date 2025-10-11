@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Ani
 
-**SRE Leader | Cloud Infrastructure Architect | AI/ML Enthusiast**
+**SRE Leader | Cloud Infrastructure Architect | AI/ML Reliability | DevSecOps | FinOps**
 
 > Making distributed systems bulletproof at scale while keeping costs in check. 10+ years of turning chaos into reliability.
 
