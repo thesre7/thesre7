@@ -125,8 +125,8 @@ When I'm not architecting resilient systems, you'll find me:
 
 ## 📫 Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-techani.org-blue?style=for-the-badge&logo=google-chrome)](https://techani.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniss)
+[![Website](https://img.shields.io/badge/Website-techani.org-blue?style=for-the-badge&logo=google-chrome)](https://anisri.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anirudhsridharans)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/thesre7)
 
 ---
